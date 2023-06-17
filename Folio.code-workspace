@@ -1,11 +1,13 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../../Desktop/my project/my-food-app-main"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../Desktop/my project/my-food-app-main"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Folio"
+  }
 }
